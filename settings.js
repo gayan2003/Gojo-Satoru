@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94774160259']
-global.premium = ['94774160259']
-global.ownernomer = '94774160259'
-global.ownername = 'Lucifer md'
-global.botname = 'Lucifer md'
-global.footer = 'Lucifer md'
+global.owner = ['14386008837']
+global.premium = ['14386008837']
+global.ownernomer = '14386008837'
+global.ownername = '🎭 𝐆𝐀𝐘𝐀𝐍𝐓𝐇𝐀 𝐏𝐑𝐀𝐁𝐎𝐃 🎭'
+global.botname = '💃𝐐𝐔𝐄𝐍𝐍 𝐓𝐇𝐀𝐑𝐔 𝐌𝐃💃'
+global.footer = '𝐓𝐇𝐀𝐑𝐔 𝐌𝐃'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'sri lanka, north central, dambulla'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
